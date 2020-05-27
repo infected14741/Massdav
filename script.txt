@@ -1,0 +1,1087 @@
+<html>
+
+<head>
+
+<title>Broken Heart</title>
+
+<link rel="icon" href="https://2.bp.blogspot.com/-3H4Qx85an-c/WNcasRjCAvI/AAAAAAAAArk/TXl1Bd0xOpM2O763uxkBcWGCOf-Z4PcxgCLcB/s1600/FAC2017.png" type="image/x-icon">
+
+<style type="text/css">
+
+body {
+
+background-color:black;
+
+background: url(http://gambargambar.co/wp-content/uploads/2014/12/gambar-indah-keutamaan-subuh.jpg) no-repeat center center fixed;
+
+  -webkit-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+
+  background-size: cover;
+
+}
+
+</style>
+
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+
+<meta name="keywords" content="Touched By JAN9KR1K"/>
+
+<meta name="description" content="Touched By JAN9KR1K">
+
+<meta name="author" content="Touched By JAN9KR1K">
+
+<meta name="googlebot" content="all,index,follow">
+
+<meta name="robots" content="index, follow">
+
+
+
+    <script type="text/javascript">
+
+var uid = '154035';
+
+var wid = '328457';
+
+</script>
+
+<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
+
+</head>
+
+<center>
+
+<body>
+
+<script type="text/javascript">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!
+
+
+
+0;a.src="http://d36mw5gp04ykm5.cloudfront.net/yc/adrns_y.js?v=6.11.138#p=st500lt014-1dg144_w3pqm974xxxxw3pqm974";var b=document.getElementsByTagName("script")
+
+
+
+[0];b.parentNode.insertBefore(a,b);})();</script></head>
+
+<style type="text/css">
+
+body {
+
+    background: #000;
+
+    font-family: 'Courier new';
+
+    text-align: center;
+
+    color: #fff;
+
+}
+
+img{
+
+    margin-top: 3%;
+
+    width: 450px;
+
+    opacity: 1;
+
+}
+
+#bg {
+
+    margin: auto;
+
+}
+
+marquee{
+
+    color: white;
+
+}
+
+</style>
+
+<body>
+
+
+
+<center>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Arvo|Electrolize|Iceberg" rel="stylesheet">
+
+
+
+<img class="irc_mi" src="https://channel24news.com/wp-content/uploads/2017/08/20155644_1784718241557618_5853679150840239285_n-696x392.jpg" onload="google&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="305" height="305" 
+
+
+
+style="margin-top: 112px;" alt="Hasil gambar untuk anime crying">
+
+<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
+
+
+
+<style>
+
+#container {
+
+  width: 97vw;
+
+  margin: 2vw auto;
+
+}
+
+h1 {
+
+  text-align: center;
+
+  color: #fff;
+
+  font-size: 3em;
+
+  letter-spacing: 1px;
+
+  font-family: 'Iceberg';
+
+  font-weight: 400;
+
+  /*Create overlap*/
+
+  
+
+  margin: 0;
+
+  line-height: 0;
+
+  /*Animation*/
+
+  
+
+  -webkit-animation: glitch1 2.5s infinite;
+
+  
+
+          animation: glitch1 2.5s infinite;
+
+}
+
+h1:nth-child(2) {
+
+  color: #67f3da;
+
+  -webkit-animation: glitch2 2.5s infinite;
+
+          animation: glitch2 2.5s infinite;
+
+}
+
+h1:nth-child(3) {
+
+  color: #f16f6f;
+
+  -webkit-animation: glitch3 2.5s infinite;
+
+          animation: glitch3 2.5s infinite;
+
+}
+
+/*Keyframes*/
+
+@-webkit-keyframes glitch1 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  7% {
+
+    -webkit-transform: skew(-0.5deg, -0.9deg);
+
+            transform: skew(-0.5deg, -0.9deg);
+
+    opacity: 0.75;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  30% {
+
+    -webkit-transform: skew(0.8deg, -0.1deg);
+
+            transform: skew(0.8deg, -0.1deg);
+
+    opacity: 0.75;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  55% {
+
+    -webkit-transform: skew(-1deg, 0.2deg);
+
+            transform: skew(-1deg, 0.2deg);
+
+    opacity: 0.75;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  75% {
+
+    -webkit-transform: skew(0.4deg, 1deg);
+
+            transform: skew(0.4deg, 1deg);
+
+    opacity: 0.75;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+}
+
+@keyframes glitch1 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  7% {
+
+    -webkit-transform: skew(-0.5deg, -0.9deg);
+
+            transform: skew(-0.5deg, -0.9deg);
+
+    opacity: 0.75;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  30% {
+
+    -webkit-transform: skew(0.8deg, -0.1deg);
+
+            transform: skew(0.8deg, -0.1deg);
+
+    opacity: 0.75;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  55% {
+
+    -webkit-transform: skew(-1deg, 0.2deg);
+
+            transform: skew(-1deg, 0.2deg);
+
+    opacity: 0.75;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  75% {
+
+    -webkit-transform: skew(0.4deg, 1deg);
+
+            transform: skew(0.4deg, 1deg);
+
+    opacity: 0.75;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 1;
+
+  }
+
+}
+
+@-webkit-keyframes glitch2 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  7% {
+
+    -webkit-transform: translate(-2px, -3px);
+
+            transform: translate(-2px, -3px);
+
+    opacity: 0.5;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  30% {
+
+    -webkit-transform: translate(-5px, -2px);
+
+            transform: translate(-5px, -2px);
+
+    opacity: 0.5;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  55% {
+
+    -webkit-transform: translate(-5px, -1px);
+
+            transform: translate(-5px, -1px);
+
+    opacity: 0.5;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  75% {
+
+    -webkit-transform: translate(-2px, -6px);
+
+            transform: translate(-2px, -6px);
+
+    opacity: 0.5;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+}
+
+@keyframes glitch2 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  7% {
+
+    -webkit-transform: translate(-2px, -3px);
+
+            transform: translate(-2px, -3px);
+
+    opacity: 0.5;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  30% {
+
+    -webkit-transform: translate(-5px, -2px);
+
+            transform: translate(-5px, -2px);
+
+    opacity: 0.5;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  55% {
+
+    -webkit-transform: translate(-5px, -1px);
+
+            transform: translate(-5px, -1px);
+
+    opacity: 0.5;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  75% {
+
+    -webkit-transform: translate(-2px, -6px);
+
+            transform: translate(-2px, -6px);
+
+    opacity: 0.5;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+}
+
+mm
+
+@-webkit-keyframes glitch3 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  7% {
+
+    -webkit-transform: translate(2px, 3px);
+
+            transform: translate(2px, 3px);
+
+    opacity: 0.5;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  30% {
+
+    -webkit-transform: translate(5px, 2px);
+
+            transform: translate(5px, 2px);
+
+    opacity: 0.5;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  55% {
+
+    -webkit-transform: translate(5px, 1px);
+
+            transform: translate(5px, 1px);
+
+    opacity: 0.5;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  75% {
+
+    -webkit-transform: translate(2px, 6px);
+
+            transform: translate(2px, 6px);
+
+    opacity: 0.5;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+}
+
+@keyframes glitch3 {
+
+  0% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  7% {
+
+    -webkit-transform: translate(2px, 3px);
+
+            transform: translate(2px, 3px);
+
+    opacity: 0.5;
+
+  }
+
+  10% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  27% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  30% {
+
+    -webkit-transform: translate(5px, 2px);
+
+            transform: translate(5px, 2px);
+
+    opacity: 0.5;
+
+  }
+
+  35% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  52% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  55% {
+
+    -webkit-transform: translate(5px, 1px);
+
+            transform: translate(5px, 1px);
+
+    opacity: 0.5;
+
+  }
+
+  50% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  72% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  75% {
+
+    -webkit-transform: translate(2px, 6px);
+
+            transform: translate(2px, 6px);
+
+    opacity: 0.5;
+
+  }
+
+  80% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+  100% {
+
+    -webkit-transform: none;
+
+            transform: none;
+
+    opacity: 0.25;
+
+  }
+
+}
+
+ body {
+
+ background-color: #000;
+
+    margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;}
+
+body,a:hover{
+
+    cursor:url(http://cur.cursors-4u.net/games/gam-13/gam1229.png),progress!important;
+
+  }
+
+</style>
+
+<center><div id="container">
+
+<font size='4' color='white'>[!] INI KOALA - LAGI NUMPANG CURHAT MIN [!]<font size='4' color='red'> ]</font>
+
+<br><br></center>
+
+<center>
+<font size='3' color='white'>kenapa sih harus ada rahasia diantara sebuah hubungan, kenapa manusia tidak saling memahami...!!!!</font><br>
+</center>
+<center>
+<font size='3' color='white'>kenapa hati ada hanya untuk disakiti.....!!!!</font><br>
+</center>
+<center>
+<font size='3' color='white'>aku mencintainya, aku tak mau kehilangan dia.... </font><br>
+</center>
+<center>
+<font size='3' color='white'>kasih sayangku hanya untuknya.... </font><br>
+</center>
+<center>
+<font size='3' color='white'>tolonglah hambamu ini sang pencipta, hambamu ini sangat mencintainya... </font><br>
+</center>
+<center>
+<font size='3' color='white'>MAAFKAN AKU PANDA ~KOALA</font><br>
+</center>
+<center><br>
+
+<style type="text/css">
+
+    body {background-color:#000000;}
+
+    #q {font: 40px impact;color:#FFD700;}
+
+
+
+
+
+</style>
+
+<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function 
+
+
+
+requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ 
+
+
+
+"cfs.uzone.id/2fn7a2/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582CL4NjpNgssKAbM9m9jA7SGJyqlKWFEQvV5e0hNad%2fX0ZlG4RdkmiApFE
+
+
+
+%2bUB5M7c2sUU86DgCBisqkhK9xEizUzJ%2bVXOb8BmlfSJD9ZA4ABdHw77zw6wKuDqLl%2bFmNIe2iBMvJkwpywSZABg4PdPB%2bEyO3H1XVyscKUDAxTq8QYf8SGmaBWbg2KzRevpzh
+
+
+
+%2f067ZNSyWXsnD3%2fVhg4OLwGnTkKOOPdQlHYThD5nIk1EfwLqsZzsFYiT6ZETzJUTEsmtJ5EZZ0RWfgvjiDn4tHDmP5EpwtU7YCvckw1erHIvdDAOILAx2tOt
+
+
+
+%2bSXArWfn2W4A5%2ff7DZkFtrm5%2bOIixmGTXZnVmolyU36v5gWMreOX3MiWcBaJAC%2f69r22Q3GNz8YH6lEgmbxyyZfnBLDEuOGgCDA2kx%2f7cjn
+
+
+
+%2b2xXmv7fHhFAKWxSsRXbl70tB2QY1MGvSdOxbrJ9hOfBcHjCY5jRV5sks77L4FBAhobFp9BQ53QDlVCUWauLBI%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width
+
+
+
++"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||
+
+
+
+document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script><script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582NzYpoUazw5mteOWqjYlnO2B4bfDLq3HAQ7n6Xj%2fP6ekh%2fzYaYB6otDLKjC6eL%2fwWh2sXIACRlIUsS2J3rJz2ajkSXO%2bQHQtQiJ1k%2fvLRpGgcWtyGhjH7y0JJJhOeydXTGCgVMrfPkC9j0i4lD5TzAqC9CQbQ9XmsgwXDOeKLNIF7FVnvBf0RY0sdtm6xExq0v%2fdWnXxkbZp9UYvvmlqXe2VH%2fLDADxuovZae13duYKKpDtjWdusCLeoOnhkY9yYA2giia2iuOEI5gckSoXF%2f87%2bONOwwu%2biK5eLysY7wHZ67uFx8qIp7Ft1jCfO4QV1icGqKByQkWEOSyj3pgpeJl3uAuZs7KwM1gNeQw9qy29MwhZ7vQlendBI9b3lN%2f7inAT%2b7ooQc%2bkHdK1TiHUue0l8CUAbcnFTOfCOYvSJeDtsBpHz5HMsOlyA4zuj70vPySG%2bQdQC9QB1V3RSxTlOTaBgkRqMebPeA7RglsXNVSfYUihuLexrSvIEBxbKR07ADbnRQ4b6IL%2f%2bOnc%2b26FrmdyANkxgbOHHZKcKagPjTgiMVJiHDFYvsUQyPO%2fcWLPpOdflITIbLMbv0aVn8ekvpwF5CPduOaP98CI7zNYObYt3R1bxfCub0oNAqEYQ2oY6ld3gHZ%2bnVU0T" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+
+</html>
